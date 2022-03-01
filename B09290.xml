@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ireland.  By the Lord Deputy and Council. Whereas in December last past one commission was then issued and granted unto Iohn Santhy Esq; and others therein named, thereby authorizing them to enquire of, hear and determin the claims, rights and titles of all persons of the Irish nation that are transplantable into the province of Connaught and county of Clare ...</title>
+            <author>Ireland. Lord Deputy (1652-1655 : Fleetwood)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09290</idno>
+            <idno type="OCLC"> 80922920</idno>
+            <idno type="STC">Wing I344B</idno>
+            <idno type="STC">ESTC R178610</idno>
+            <idno type="EEBO-CITATION">80922920</idno>
+            <idno type="OCLC">ocm 80922920</idno>
+            <idno type="VID">191899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191899)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2895:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ireland.  By the Lord Deputy and Council. Whereas in December last past one commission was then issued and granted unto Iohn Santhy Esq; and others therein named, thereby authorizing them to enquire of, hear and determin the claims, rights and titles of all persons of the Irish nation that are transplantable into the province of Connaught and county of Clare ...</title>
+                  <author>Ireland. Lord Deputy (1652-1655 : Fleetwood)</author>
+                  <author>Fleetwood, Charles, d. 1692.</author>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bladen,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>"Dated at Dublin the twenty third day of May, 1655 ... Ordered by the Lord Deputy and Council, that this declaration be forthwith printed and published.  Thomas Herbert Clerk of the Council."</note>
+                  <note>Reproduction of original in the Library Company of Philadelphia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Santhy, John.</term>
+               <term>Land tenure --  Ireland --  Sources --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Sources.</term>
+               <term>Connacht (Ireland) --  History --  Sources --  Early works to 1800.</term>
+               <term>Clare (Ireland) --  History --  Sources --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Sources.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191899:1"/>
+            <head>IRELAND. ¶ By the Lord Deputy and Council.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS in <hi>December</hi> laſt paſt one Commiſſion was then iſſued and granted unto <hi>Iohn Santhy</hi> Eſq; and others therein named, thereby authorizing them to enquire of, hear and determin the Claims, Rights and Cities of all perſons of the Iriſh Nation that are transplantable into the Province of <hi>Con<g ref="char:EOLhyphen"/>naught</hi> and County of <hi>Clare,</hi> as in and by the ſaid Commiſſion is ſet forth; and alſo for the hearing and determining of all and ſingular the crimes, Offences and Misdemeanors of any the perſons ſo making ſuch Claims, by them done or committed on the 23 of <hi>October 1641</hi> or ſince; and Sir <hi>Charls Coot</hi> Knight and Baronet Lord Preſident of <hi>Connaught,</hi> and other the Commiſſioners now ſitting at <hi>Loughrea,</hi> formerly appointed for the ordering, diſpoſing and putting all ſuch perſons transplantable, as aboveſaid, into the poſſeſſion of Lands in <hi>Connaught</hi> and <hi>Clare</hi> as do juſtly belong unto them, are thereby alſo required to aſſign, ſet out and allot unto ſuch perſons (ſo transplantable as aboveſaid) and their Aſſigns, ſuch part and portion of Lands in <hi>Connaught</hi> and <hi>Clare</hi> as do juſtly belong unto them according to their reſpective Articles, or according to the reſpective Qualifications they ſhall reſpectively be adjudged and ſentenced to fall under, and to be comprehended in; Which ſaid Commiſſion was to be of force untill the firſt day of <hi>Iuly</hi> now next enſuing, and no longer without other or farther Order.</p>
+            <p>And whereas notwithſtanding the ſaid powers and authorities given, to the ends aboveſaid; and the many Declarati<g ref="char:EOLhyphen"/>ons formerly publiſhed for the transplanting of the ſaid perſons into <hi>Connaught</hi> and <hi>Clare;</hi> and the ſeveral proviſions made for accommodations of ſuch as ſhould yield obedience thereto: Yet nevertheleſs there is not that conformitie and obedience yielded as ought to be, but very many perſons transplantable, being Iriſh Papiſts that are Proprietors of Lands in <hi>Ireland;</hi> or that have, ſince the 21 of <hi>October 1641,</hi> been in arms againſt the Common-wealth of <hi>England</hi> their Armies and Forces; or that acted, aided and aſſiſted in the late bloudy Rebellion, at or before the 21 of <hi>October 1642,</hi> do ſtill remain in the Pro<g ref="char:EOLhyphen"/>vinces of <hi>Leinſter, Munſter</hi> and <hi>Ulſter,</hi> not having any Licence or Diſpenſation ſo to do.</p>
+            <p>The Lord Deputy and Council taking the premiſes into conſideration; and the great charge the Common-wealth is now at in maintaining the ſeveral Courts and Officers thereto belonging, now ſitting at <hi>Athlone</hi> and <hi>Loughrea</hi> by virtue of the Commiſſions aforeſaid, and for the ends aboveſaid; and the little fruit that is reaped thereby through the neglect of the perſons aboveſaid, for whoſe benefits the ſaid Courts were erected; The ſaid Lord Deputy and Council do now Order and Declare, and it is hereby Ordered and Declared, That the ſaid Commiſſion, bearing date the 28 of <hi>December</hi> laſt, be continued to be of force, and the Commiſſioners therein named are to execute the ſame untill the 20 day of <hi>September</hi> now next enſuing, and no longer.</p>
+            <p>And it is farther Ordered, That all perſons transplantable (as aboveſaid) who have any right to any Lands, Tene<g ref="char:EOLhyphen"/>ments and Hereditaments by virtue of any Articles, or by virtue of the Act of ſettlement, intituled, <hi>An Act for the Settling of Ireland,</hi> made and paſſed in <hi>Auguſt 1652,</hi> or that do expect any mercy and favor by virtue of the ſaid Act; or that do or ſhall claim any Lands in the Province of <hi>Connaught</hi> or County of <hi>Clare</hi> by virtue of the farther Inſtructions from the Council of State, bearing date the ſecond of <hi>Iuly 1653:</hi> That all and every ſuch perſons transplantable, as aboveſaid, ſhall and they are hereby required to enter their Claims of their reſpective Rights, Titles and Intereſts to any Lands. Tenements or Hereditaments before the ſaid <hi>Iohn Santhy</hi> and other Commiſſioners in that Commiſſion named, and now ſitting at <hi>Athlone,</hi> at or before the ſaid 20 of <hi>September</hi> now next enſuing; and effetually proſecute their ſaid Claims, and obtain ſentence or judgement therein before the ſaid 20 of <hi>September.</hi>
+            </p>
+            <closer>
+               <dateline>Dated at DUBLIN <date>the Twenty third day of <hi>May,</hi> 1655.</date>
+               </dateline>
+               <signed>Thomas Herbert Clerk of the Council.</signed>
+            </closer>
+         </div>
+         <div type="order_to_print">
+            <p>ORdered by the Lord Deputy and Council, that this Declaration be forthwith Printed and publiſhed.</p>
+            <closer>
+               <signed>Thomas Herbert Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by WILLIAM BLADEN, 1655.</p>
+            <pb facs="tcp:191899:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
